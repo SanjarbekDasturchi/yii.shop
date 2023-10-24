@@ -26,6 +26,7 @@ return [
             'class' => 'yii\rbac\DbManager',
         ],
         'request' => [
+            'baseUrl' => '/admn',
             'csrfParam' => '_csrf-backend',
         ],
         'user' => [
