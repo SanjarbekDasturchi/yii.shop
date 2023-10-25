@@ -1,1 +1,1 @@
-<h1>Salom bu pull push qilingandan keyingi holati</h1>
+<h1>Sayit tayyorlanmoqda</h1>
