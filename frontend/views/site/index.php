@@ -1,1 +1,1 @@
-Salom
+git uzgartirish.
