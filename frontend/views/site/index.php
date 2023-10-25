@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<h1>Salom1</h>
-=======
-git uzgartirish.
->>>>>>> refs/remotes/origin/master
-=======
-git uzgartirish. 123
->>>>>>> refs/remotes/origin/master
+<h1>Salom bu pull push qilingandan keyingi holati</h1>
